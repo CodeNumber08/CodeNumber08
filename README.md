@@ -1,5 +1,4 @@
-# Hi 👋, I'm Austinn Kyle
-<h3 align="left">A Full Stack Developer</h3>
+# Hi 👋, I'm Austinn Kyle A Full Stack Developer;
 
 Hi! I'm Austinn Kyle. BSIT student, I've been studying full-stack development and programming for a year now, still have been focusing my time on learning new things about software development to become a more flexible full-stack developer.                     
 
