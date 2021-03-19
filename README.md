@@ -1,7 +1,7 @@
 ![](https://github.com/CodeNumber08/CodeNumber08/blob/main/hello.png)
 # Hi 👋, I'm Austinn Kyle A Full Stack Developer;
 
-Hi! I'm Austinn Kyle. BSIT student, I've been studying full-stack development and programming for a year now, still have been focusing my time on learning new things about software development to become a more flexible full-stack developer.                     
+I'm currently a BSIT student and I'm a self taught full-stack developer, I've been studying full-stack development and programming for a year now, still have been focusing my time on learning new things about software development to become a more flexible full-stack developer.                     
 
 ## Skills:
 * Front End: HTML | CSS | SCSS | Bootstrap | Javascript | jQuery
