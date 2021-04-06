@@ -56,6 +56,6 @@ I'm currently a BSIT student and I'm a self-taught full-stack developer, I've be
   </a> 
 </p>
 
-## Github Records:
+## Github Public Records:
 
 ![Metrics](https://metrics.lecoq.io/CodeNumber08?template=classic&isocalendar=1&languages=1&lines=1&followup=1&isocalendar.duration=full-year&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FShanghai)
