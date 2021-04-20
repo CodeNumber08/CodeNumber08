@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Austinn Kyle A Full Stack Developer;
 
-I'm currently a BSIT student and I'm a self-taught full-stack developer, I've been studying full-stack development and programming for almost 3 years now, still have been focusing my time on learning new things about web development to become a more flexible full-stack developer.
+I'm currently a BSIT student and I'm a self-taught full-stack developer, I've been studying full-stack development and programming for almost 3 years now, still have been focusing my time on learning new things about web and software development to become a more flexible full-stack developer.
 
 ## Skills:
 
