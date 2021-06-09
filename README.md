@@ -2,13 +2,13 @@
 
 # Hi 👋, I'm Austinn Kyle A Full Stack Developer;
 
-I'm currently a BSIT student and I'm a self-taught full-stack developer, I've been studying full-stack development and programming for almost 3 years now, still have been focusing my time on learning new things about web development to become a more flexible full-stack developer.
+I'm currently a BSIT student and I'm a self-taught full-stack developer, I've been studying full-stack development and programming for 3 years now, still have been focusing my time on learning new things about web development to become a more flexible full-stack developer.
 
 ## Skills:
 
 - Front End: HTML | CSS | SASS | Bootstrap | Javascript | jQuery
 - Back End: C# | PHP | Python | Laravel
-- Database: SQL Server | MySQL
+- Database: MSSQL | MySQL
 
 ## Languages and Tools:
 
@@ -26,10 +26,10 @@ I'm currently a BSIT student and I'm a self-taught full-stack developer, I've be
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> 
   </a>
   <a href="https://www.php.net" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> 
@@ -39,24 +39,39 @@ I'm currently a BSIT student and I'm a self-taught full-stack developer, I've be
     </a>
   <a href="https://laravel.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="30" height="30"/> 
-    </a> 
+  </a> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="30" height="30"/> 
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"/> 
   </a> 
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> 
-    </a> 
+  </a> 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> 
-    </a> 
+  </a> 
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> 
-    </a> 
+  </a> 
   <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> 
+  </a>
+  <a href="https://heroku.com" target="_blank"> 
+     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> 
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+  </a>
+  <a href="https://aws.amazon.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/> 
   </a> 
+  <a href="https://azure.microsoft.com/en-in/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="30" height="30"/> 
+  </a> 
+  <a href="https://www.nginx.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30"/> 
+  </a>   
 </p>
 
 ## Github Public Records:
