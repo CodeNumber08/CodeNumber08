@@ -6,7 +6,7 @@ I'm currently a BSIT student and I'm a self-taught full-stack developer, I've be
 
 ## Skills:
 
-- Front End: HTML | CSS | SASS | Bootstrap | Javascript | jQuery
+- Front End: HTML | CSS | SASS | Bootstrap | Javascript | React-JS
 - Back End: C# | PHP | Python | Laravel
 - Database: MSSQL | MySQL
 
@@ -27,6 +27,9 @@ I'm currently a BSIT student and I'm a self-taught full-stack developer, I've be
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> 
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> 
