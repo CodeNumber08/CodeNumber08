@@ -2,15 +2,18 @@
 
 # Hi 👋, I'm Austinn Kyle A Full Stack Developer;
 
-I'm currently a BSIT student and I'm a self-taught full-stack developer, I've been studying full-stack development and programming for 3 years now, still have been focusing my time on learning new things about web development to become a more flexible full-stack developer.
+I'm a self-taught full-stack developer, I've been studying full-stack development and programming for few years now, still have been focusing my time on learning new things about web/software development to become a more flexible full-stack developer.
 
 ## Skills:
 
-- Front End: HTML | CSS | SASS | Bootstrap | Javascript | React-JS
-- Back End: C# | PHP | Python | Laravel
-- Database: MSSQL | MySQL
+- HTML | CSS | SASS | Javascript | ReactJS |
+  C# | PHP | Python | MSSQL | MySQL |
+  Git | Apache | NGINX | AWS | Bash/Shell Scripting |
+  Windows 10 | Linux Ubuntu | Linux CentOS 7 |
+  Adobe Photoshop | Figma | Canva
 
-## Languages and Tools:
+
+<!-- ## Languages and Tools:
 
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank">
@@ -39,10 +42,7 @@ I'm currently a BSIT student and I'm a self-taught full-stack developer, I've be
   </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-    </a>
-  <a href="https://laravel.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="30" height="30"/> 
-  </a> 
+  </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"/> 
   </a> 
@@ -75,7 +75,7 @@ I'm currently a BSIT student and I'm a self-taught full-stack developer, I've be
   <a href="https://www.nginx.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30"/> 
   </a>   
-</p>
+</p> -->
 
 ## Github Public Records:
 
