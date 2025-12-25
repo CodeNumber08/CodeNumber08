@@ -1,6 +1,6 @@
 <!-- ![](https://github.com/CodeNumber08/CodeNumber08/blob/main/banner.png) -->
 
-# Hi 👋, I'm Austinn Kyle. Cybersecurity Professional;
+# Hi 👋, I'm Austinn Kyle. A Cybersecurity Professional;
 <!--
 I'm Austinn Kyle, an optimist, minimalist, and natural-born leader. I'm also a self-taught full-stack developer that has been studying full-stack development and programming for the past few years and continues to devote time to learning new things about web and software development to become a more versatile full-stack developer.
 
@@ -76,7 +76,8 @@ I'm Austinn Kyle, an optimist, minimalist, and natural-born leader. I'm also a s
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30"/> 
   </a>   
 </p> -->
-
+<!--
 ## Github Public Records:
 
 ![Metrics](https://metrics.lecoq.io/CodeNumber08?template=classic&isocalendar=1&languages=1&lines=1&followup=1&isocalendar.duration=full-year&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FShanghai)
+-->
