@@ -1,7 +1,10 @@
 <!-- ![](https://github.com/CodeNumber08/CodeNumber08/blob/main/banner.png) -->
 
-# Hi 👋, I'm Austinn Kyle. A Cybersecurity Professional;
+Hi 👋, I'm Austinn Kyle. A Cybersecurity Professional;
+
 <!--
+# Hi 👋, I'm Austinn Kyle. A Cybersecurity Professional;
+
 I'm Austinn Kyle, an optimist, minimalist, and natural-born leader. I'm also a self-taught full-stack developer that has been studying full-stack development and programming for the past few years and continues to devote time to learning new things about web and software development to become a more versatile full-stack developer.
 
 ## Skills:
